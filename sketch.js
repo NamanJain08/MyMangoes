@@ -28,7 +28,7 @@ function setup() {
 
 	stone=new Stone(150,300,20,20);
 
-	boy=createSprite(189,647,10,10);
+	boy=createSprite(185,647,10,10);
 	boy.addImage(boyImage);
 	boy.scale=0.08;
 	
